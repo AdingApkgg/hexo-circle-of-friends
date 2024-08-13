@@ -18,8 +18,8 @@ HTTP_PROXY: false
 LINK:
 - link: https://blog.saop.cc/link/
   theme: butterfly
-MAX_POSTS_NUM: 9999
-OUTDATE_CLEAN: 90
+MAX_POSTS_NUM: 5
+OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: false
   json_api: ''
